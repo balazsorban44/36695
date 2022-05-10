@@ -23,8 +23,6 @@
     "next-env.d.ts",
     "**/*.ts",
     "**/*.tsx",
+    "node_modules/square"
   ],
-  "exclude": [
-    "node_modules"
-  ]
 }
